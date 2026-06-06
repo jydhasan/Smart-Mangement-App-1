@@ -2,7 +2,7 @@
 
 client_id = "5945f8a1b9fcfc8f61261ec1d5f5f4f6"
 name = "railway-test-app"
-application_url = "https://vyak8swfa2tl1ikdm1o2xxky.187.127.177.63.sslip.io"
+application_url = "http://hmfmn35121dwqrvu6gnyzfsz.187.127.177.63.sslip.io"
 embedded = true
 
 
@@ -48,7 +48,7 @@ api_version = "2026-07"
   topics = [ "app/scopes_update" ]
 
 [auth]
-redirect_urls = [ "https://vyak8swfa2tl1ikdm1o2xxky.187.127.177.63.sslip.io/api/auth" ]
+redirect_urls = [ "http://hmfmn35121dwqrvu6gnyzfsz.187.127.177.63.sslip.io/api/auth" ]
 
 [build]
 include_config_on_deploy = true
